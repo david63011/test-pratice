@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1666110827895" clover="3.2.0">
-  <project timestamp="1666110827895" name="All files">
-    <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5" elements="17" coveredelements="15" complexity="0" loc="11" ncloc="11" packages="1" files="5" classes="5"/>
+<coverage generated="1666113941932" clover="3.2.0">
+  <project timestamp="1666113941932" name="All files">
+    <metrics statements="18" coveredstatements="16" conditionals="5" coveredconditionals="3" methods="10" coveredmethods="9" elements="33" coveredelements="28" complexity="0" loc="18" ncloc="18" packages="1" files="6" classes="6"/>
+    <file name="calculator.js" path="C:\Users\david\OneDrive\Desktop\testing\calculator.js">
+      <metrics statements="7" coveredstatements="6" conditionals="5" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="15" count="3" type="cond" truecount="3" falsecount="2"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
     <file name="cloneArray.js" path="C:\Users\david\OneDrive\Desktop\testing\cloneArray.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="stmt"/>
